@@ -1,0 +1,22 @@
+{
+  "name": "studio-tat",
+  "version": "1.0.0",
+  "description": "Sample project to experiment with Cypress Studio on v8.1.0",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "Cypress.io",
+    "Cypress Studio",
+    "cy.handsOn()",
+    "Talking About Testing",
+    "Cypress v8.1.0"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  },
+  "main": "index.js",
+  "dependencies": {}
+}
